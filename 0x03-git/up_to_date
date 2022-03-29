@@ -1,1 +1,1 @@
-Collaboration: be up to date
+git pull
